@@ -1,0 +1,12 @@
+id,title,author,category,year,quantity,status,borrower,return_date
+101,Le Petit Prince,Antoine de Saint-Exupéry,Roman,1943,3,disponible,,
+102,Les Misérables,Victor Hugo,Roman,1862,2,réservé,,
+103,Notre-Dame de Paris,Victor Hugo,Roman,1831,2,disponible,,
+104,Orgueil et Préjugés,Jane Austen,Roman,1813,1,disponible,,
+106,Les Contemplations,Victor Hugo,Poésie,1856,1,disponible,,
+107,Introduction à Python,Guido van Rossum,Informatique,2020,5,disponible,,
+108,Histoire de France,Jules Michelet,Histoire,1855,1,réservé,Marie Martin,2026-03-20
+1,test,test,Science,2025,1,disponible,,
+109,hello,hello,📜 Histoire,2025,1,disponible,,
+155,new,new,😱 Thriller,1995,4,disponible,,
+156,Today,Nadhem,📝 Poésie,2026,4,disponible,,
